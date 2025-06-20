@@ -1,6 +1,6 @@
 ##  AAAI2022_Unfolding_Network_Shadow_Removal
 ** This is the official implementation of the AAAI 2022 paper "Efficient Model-Driven Network for Shadow Removal."**
-[Paper Link](https://www.aaai.org/AAAI22Papers/AAAI-196.ZhuY.pdf)
+[Paper Link](https://cdn.aaai.org/ojs/20276/20276-13-24289-1-2-20220628.pdf)
 
 ### Results of Shadow Removal
 [Results on the ISTD/SRD dataset](https://drive.google.com/drive/folders/1ipUKZdI67IZVRIKwAtmvNE8qIemzx68u?usp=sharing)
